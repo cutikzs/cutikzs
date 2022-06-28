@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  Cuti
 - 👀 I’m interested in ...aprender e interioizarme en el mundo de la programacion.
-- 🌱 I’m currently learning C++ y no se porque programa seguir eh leido que deberia ir por uno popular para conseguir trabajo, uno como java o phyton
-- 💞️ I’m looking to collaborate on cualquier proyecto que pueda, ya que necesito ir adquiriendo experiencia en trabajos.
+- 🌱 I’m currently learning C++, SQL, HTML, CSS Y JAVASCRIPT y quiero ir por phyton
+- 💞️ I’m looking to collaborate on cualquier proyecto que pueda, ya que necesito ir adquiriendo experiencia en trabajos pero me gustaria orientarme a Big Data sql o seguridad informatica
 - 📫 How to reach me , podrian enviarme un correo electronico.
 
 <!---
